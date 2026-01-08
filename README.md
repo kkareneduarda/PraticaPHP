@@ -20,10 +20,10 @@ Consiste em cinco exercícios de lógicas em PHP:
 
 
 ##  Executando o projeto
-1 - Clone o repositório
-2 - Coloque o projeto no htdocs
-3 - Inicie o XAMPP
-4 - Acesse `http://localhost/php`
+1. Clone o repositório
+2. Coloque o projeto no htdocs
+3. Inicie o XAMPP
+4. Acesse `http://localhost/php`
 
 ##  Autora
 Karen Eduarda Silva Ferreira
